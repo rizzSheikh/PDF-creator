@@ -7,10 +7,9 @@ The Android app enables users to effortlessly convert or generate PDFs from imag
 
 ---
 
-<img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/home_screen.png" width="200" />
-<img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/img_to_pdf.png" width="200" />
-<img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/text_to_pdf.png" width="200" />
-<img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/excel_to_pdf.png" width="200" />
+<img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/home_screen.png" width="200" /> | <img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/img_to_pdf.png" width="200" />
+
+<img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/text_to_pdf.png" width="200" /> | <img src="https://github.com/rizzSheikh/PDF-creator/blob/main/ss/excel_to_pdf.png" width="200" />
 
 ---
 
